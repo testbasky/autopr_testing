@@ -3,6 +3,7 @@ spec:
   languages:
     - java
     - python
+    - go
   additional_environment_variables:
     - ENDOR_LOG_VERBOSE=false
     - SOMETHING
